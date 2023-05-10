@@ -1,0 +1,4 @@
+When is the delivery date?
+Answer : 19 Days
+Which tasks could be delayed without delaying the schedule?
+Answer : C,E,F
